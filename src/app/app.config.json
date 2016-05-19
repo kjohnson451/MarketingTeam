@@ -1,0 +1,7 @@
+{
+  "appname": "MarketingTeam",
+  "ocscope": "DevCenterImpersonate FullAccess BuyerAdmin BuyerReader",
+  "clientid": "9C808B95-1F17-40F8-ABB1-8ABECC164DCE",
+  "buyerid": "MarketingSpecialist",
+  "environment": "prod"
+}
